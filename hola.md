@@ -1,3 +1,3 @@
 # Hola
 Esta es mi primera práctica con Git.
-"Línea desde GitHub super importante"
+Esta es la línea definitiva resuelta.
